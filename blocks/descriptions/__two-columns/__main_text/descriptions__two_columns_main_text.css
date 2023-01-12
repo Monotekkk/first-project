@@ -1,0 +1,16 @@
+.main-text {
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    min-width: 784px;
+    justify-content: space-between;
+}
+.main-text p:nth-child(2n){
+    margin: 30px 0;
+}
+.bold{
+    font-weight: bold;
+}

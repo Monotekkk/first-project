@@ -1,0 +1,7 @@
+.column__content__copyright{
+    flex-basis: 711px;
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

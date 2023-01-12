@@ -1,0 +1,13 @@
+.column-links{
+    margin: 20px 0 16px;
+}
+.column-link{
+    margin: 10px 0;
+}
+.column-link a{
+    text-decoration: none;
+    color: white;
+    line-height: 18px;
+    font-weight: 18px;
+    font-weight: normal;
+}
