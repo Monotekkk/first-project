@@ -44,9 +44,8 @@
 @import url(./blocks/footer/__columns/column-heading.css);
 @import url(./blocks/footer/__columns/column-link.css);
 @import url(./blocks/footer/__columns/__social/__social-icon.css);
-
-
-
+/*video*/
+@import url(./blocks/video_block/__video.css);
 
 
 
