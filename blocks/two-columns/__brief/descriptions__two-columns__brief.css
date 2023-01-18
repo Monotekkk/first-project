@@ -1,8 +1,8 @@
-.brief {
+.two-columns__brief {
     width: 175px;
 }
 
-.brief h3 {
+.two-columns__brief h3 {
     line-height: 1.2;
     font-size: 18px;
     font-weight: normal;

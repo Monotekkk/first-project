@@ -1,4 +1,4 @@
-.main-text {
+.two-columns__main-text {
     line-height: 34px;
     font-size: 24px;
     font-weight: normal;
@@ -8,7 +8,7 @@
     min-width: 784px;
     justify-content: space-between;
 }
-.main-text p:nth-child(2n){
+.two-columns__main-text p:nth-child(2n){
     margin: 30px 0;
 }
 .bold{
