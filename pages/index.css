@@ -30,7 +30,6 @@
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__cell__dark/kaufman__cell_dark.css);
 @import url(../blocks/kaufman/__table__dark/kaufman__table__dark.css);
-@import url(../blocks/__dark/__dark.css);
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/footer/footer.css);
@@ -41,7 +40,7 @@
 @import url(../blocks/footer/__columns/column-heading.css);
 @import url(../blocks/footer/__columns/column-link.css);
 @import url(../blocks/footer/__columns/__social/__social-icon.css);
-@import url(../blocks/video_block/__video.css);
+@import url(../blocks/video_block/video.css);
 @import url(../blocks/video_block/video__iframe/video__iframe.css);
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/feynman/feynman.css);
@@ -60,11 +59,4 @@
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
 @import url(../blocks/kaufman/__triangle/triangle.css);
-@font-face {
-    font-family: Inter;
-    src: url(../fonts/Inter/Inter-Regular.woff);
-}
-* {
-    margin: 0;
-    padding: 0;
-}
+@import url(../blocks/resources/__logo/resources__logo.css);
